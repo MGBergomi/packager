@@ -1,6 +1,6 @@
 # Python packager
 
-Generate a Python repository structure creating the command `packager`.
+Generate a Python repository structure creating the command `py_packager`.
 
 ## Structure
 
