@@ -1,5 +1,5 @@
 # This file is part of YOUR PROJECT NAME
-# Copyright (C) CURRENT YEAR - Veos Digital
+# Copyright (C) CURRENT YEAR - Author
 #
 
 import os
